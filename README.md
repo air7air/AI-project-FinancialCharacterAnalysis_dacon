@@ -1,0 +1,1 @@
+# AI-project-FinancialCharacterAnalysis_dacon
